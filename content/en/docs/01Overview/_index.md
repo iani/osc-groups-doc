@@ -3,25 +3,25 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+ OSC Groups is an application for sharing OSC data between applications via the internet. It can be used for live performances or installations involving various controllers, sensors as well as for sharing code in live coding.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Background and uses of OSC Groups.
 {{% /pageinfo %}}
-
-
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a very special separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
-
-Try answering these questions for your user in this page:
 
 ## What is it?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+OSC Groups is a free software package by Ross Bencina, and consists of two applications:
+
+1. OSCGroupServer: 
+2. OSCGroupClient
+
+Usually the OSCGroupServer is 
 
 ## Why do I want it?
 
-Help your user know if your project will help them. Useful information can include: 
+
 
 * **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
 
