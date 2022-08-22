@@ -60,8 +60,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "OSC Groups documentation"
-description = "Documentation for the OSC Groups Application"
+title = "Intro to OSC Groups"
+description = "Introdution to the OSC Groups Application"
 languageName ="English"
 # Weight used for sorting.
 weight = 1

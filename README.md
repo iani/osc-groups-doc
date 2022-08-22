@@ -1,6 +1,6 @@
-# Documentation for SC-Hacks-Redux
+# Introduction to OSC Groups 
 
-This is documentation for the SuperCollider Library SC-Hacks-Redux. 
+Use Osc Groups to share OSC data between applications in networked performances.
 
 # Docsy Example
 
