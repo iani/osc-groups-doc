@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+This is a placeholder page. Replace it with your own content.  JitLib is in the page info quadrant ;-)
 {{% /pageinfo %}}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
